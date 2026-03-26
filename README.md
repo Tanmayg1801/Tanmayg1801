@@ -1,6 +1,6 @@
 # Hi, I'm Tanmay! 👋
 
-**🎓 B.Tech Computer Science and Engineering (Gaming Technology) Student at VIT Bhopal University| Year 2025** \n
+**🎓 B.Tech Computer Science and Engineering (Gaming Technology) Student at VIT Bhopal University| Year 2025**  
 *Currently aiming to deepen my expertise in AR/VR optic systems to make playable on-the-go games for AR glasses.*
 
 ---
