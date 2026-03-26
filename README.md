@@ -17,7 +17,7 @@ I am a game developer and the team lead for **Team Daligo**. I'm passionate abou
 * Project-LIKE, my prototype for AR glasses.
 
 ### 📫 How to reach me
-* LinkedIn: https://www.linkedin.com/in/tanmay-na-4a2ba1368/
+* [LinkedIn](https://www.linkedin.com/in/tanmayg1801/)
 <!--
 **Tanmayg1801/Tanmayg1801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
