@@ -1,6 +1,7 @@
 # Hi, I'm Tanmay! 👋
 
-**🎓 B.Tech Computer Science and Engineering (Gaming Technology) Student | Year 2025** *Currently aiming to deepen my expertise in AR/VR optic systems to make playable on-the-go games for AR glasses.*
+**🎓 B.Tech Computer Science and Engineering (Gaming Technology) Student at VIT Bhopal University| Year 2025** 
+*Currently aiming to deepen my expertise in AR/VR optic systems to make playable on-the-go games for AR glasses.*
 
 ---
 
@@ -15,6 +16,8 @@ I am a game developer and the team lead for **Team Daligo**. I'm passionate abou
 * Leading development at Team Daligo.
 * Project-LIKE, my prototype for AR glasses.
 
+### 📫 How to reach me
+* LinkedIn: https://www.linkedin.com/in/tanmay-na-4a2ba1368/
 <!--
 **Tanmayg1801/Tanmayg1801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
